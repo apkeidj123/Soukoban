@@ -32,3 +32,4 @@ PS：Left-top options are the same with above things.
 ```
 
 NO music files. 
+Music files are allowed with ".mid".
